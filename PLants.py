@@ -1,0 +1,6 @@
+total = int(input())
+plants = input()
+plantList = plants.split(" ")
+print (plantList)
+plantList = set(plantList)
+print (plantList=)
